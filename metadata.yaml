@@ -1,0 +1,28 @@
+_repo: The-Silver-Crown--Another-Book-of-Fables_19892
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fables'
+title: 'The Silver Crown: Another Book of Fables'
+url: http://www.gutenberg.org/ebooks/19892
